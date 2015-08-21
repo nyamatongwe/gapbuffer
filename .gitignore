@@ -1,1 +1,4 @@
-*.obj *.pyd *.exp *.lib
+*.obj
+*.pyd
+*.exp
+*.lib
