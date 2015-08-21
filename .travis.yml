@@ -11,4 +11,5 @@ compiler:
     - clang
 script:
     - python setup.py build
-    - python setup.py test
+    - python setup.py install
+    - python unitTests.py
